@@ -1,0 +1,16 @@
+[
+    {
+        "nome": "afonso",
+        "email": "string@",
+        "cpf": "1234567",
+        "profissao": "PG",
+        "endereco": null
+    },
+    {
+        "nome": "vitor",
+        "email": "string",
+        "cpf": "12345678",
+        "profissao": "string",
+        "endereco": null
+    }
+]
